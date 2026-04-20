@@ -2,12 +2,12 @@
 
 This playbook describes a hackathon format I'd run to launch company-wide AI enablement. To gain traction, new technologies don't need associated trainings as much as they require  practicality and fun. A hackathon does that for AI.
 
-The structure has three phases. Preparation takes about a month, and the hackathon itself runs over about six weeks. A sustained programme begins the week after demo day and is designed to harness the excitement and ideas generated during the hackathon.
+The structure has three phases. After the preparation phase, the hackathon itself runs over about six weeks. A sustained programme begins the week after demo day and is designed to harness the excitement and ideas generated during the hackathon.
 
 ## Phase 1. Preparation
 
 Leadership, IT, and I (your new AI enabler!) work together to produce three things:
-1. A whitelist, which teams will operate under
+1. A tools whitelist and company AI rules, which teams will operate under
 2. A process for moving ideas from raw to deployed
 3. A worked example that makes items 1 & 2 concrete
 
